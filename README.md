@@ -4,4 +4,4 @@
 
 ## Packaging
 
-`zip -r -FS ../password-extension.zip * --exclude '*.git*' README.md LICENSE`
+`zip -r -FS ../notes-extension.zip * --exclude '*.git*' README.md LICENSE`
