@@ -2,14 +2,27 @@
 
 	"manifest_version": 2,
 	"name": "notes-extension",
-	"version": "1.0",
+	"version": "1.1",
+	"description": "Simple extension to take quick notes.",
+
+	"icons": {
+		"16": "icons/notes-16.png",
+		"32": "icons/notes-32.png",
+		"48": "icons/notes-48.png",
+		"128": "icons/notes-128.png"
+	},
 
 	"permissions": [
 		"storage"
 	],
 
 	"browser_action": {
-		"default_icon": "icons/notes-32.png",
+		"default_icon": {
+			"16": "icons/notes-16.png",
+			"32": "icons/notes-32.png",
+			"48": "icons/notes-48.png",
+			"128": "icons/notes-128.png"
+		},
 		"default_title": "Notes",
 		"default_popup": "popup/notes.html"
 	}
