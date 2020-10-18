@@ -3,7 +3,7 @@
 	"manifest_version": 2,
 	"name": "notes-extension",
 	"version": "1.1",
-	"description": "Simple extension for taking quick notes without leaving the browser, the data is saved to local storage.",
+	"description": "Browser extension for taking quick notes without leaving the browser, the data is saved to local storage.",
 
 	"icons": {
 		"16": "icons/notes-16.png",
