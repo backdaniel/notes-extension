@@ -2,7 +2,7 @@
 
 Browser extension for taking quick notes in an intuitive way, the data is saved to local storage.
 
-![screenshot](http://backdaniel.com/img/notes-screenshot.png)
+![screenshot](http://backdaniel.com/img/screenshot/notes-extension.png)
 
 ## Packaging
 
